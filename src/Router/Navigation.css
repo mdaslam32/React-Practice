@@ -1,0 +1,13 @@
+header {
+  background-color: darkcyan;
+  display: flex;
+  justify-content: space-around;
+}
+
+ul {
+  list-style-type: none;
+  display: inline-flex;
+  gap: 40px;
+  font-size: x-large;
+  font-weight: 600;
+}
